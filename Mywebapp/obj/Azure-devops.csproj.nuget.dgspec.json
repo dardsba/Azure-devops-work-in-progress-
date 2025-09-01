@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\GIT\\Azure-devops\\Mywebapp\\Azure-devops.csproj": {}
+    "C:\\Users\\danie\\GIT\\Azure-devops-work-in-progress-\\Mywebapp\\Azure-devops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\GIT\\Azure-devops\\Mywebapp\\Azure-devops.csproj": {
+    "C:\\Users\\danie\\GIT\\Azure-devops-work-in-progress-\\Mywebapp\\Azure-devops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\GIT\\Azure-devops\\Mywebapp\\Azure-devops.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\GIT\\Azure-devops-work-in-progress-\\Mywebapp\\Azure-devops.csproj",
         "projectName": "Azure-devops",
-        "projectPath": "C:\\Users\\danie\\GIT\\Azure-devops\\Mywebapp\\Azure-devops.csproj",
+        "projectPath": "C:\\Users\\danie\\GIT\\Azure-devops-work-in-progress-\\Mywebapp\\Azure-devops.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\GIT\\Azure-devops\\Mywebapp\\obj\\",
+        "outputPath": "C:\\Users\\danie\\GIT\\Azure-devops-work-in-progress-\\Mywebapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
